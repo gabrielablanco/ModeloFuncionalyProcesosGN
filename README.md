@@ -12,7 +12,7 @@
 ![funcional](FuncionalProcesos/FuncionalDecanatura.png)
 
 ### Vicerrectoría
-![funcional](FuncionalProcesos/FuncionalVicerrectoria.png)
+![funcional](FuncionalProcesos/FuncionalVicerrectoría.png)
 
 ### Docentes
 ##### 1.
