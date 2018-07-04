@@ -45,7 +45,7 @@ Nosotros consideramos que la arquitectura basada en microservicios aporta una im
 ### Proceso espacios académicos
 ![procesos](FuncionalProcesos/ProcesosEspaciosAcademicos.png)
 
-### Proceso Gestión de docentes
+### Proceso Gestión de documentos
 ![procesos](FuncionalProcesos/ProcesosGestionDocentes.png)
 
 ### Proceso gestión laboratorio
