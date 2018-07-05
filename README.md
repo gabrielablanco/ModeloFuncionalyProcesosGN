@@ -76,4 +76,34 @@ Nosotros consideramos que la arquitectura basada en microservicios aporta una im
 ![procesos](FuncionalProcesos/ProcesosReintegro.png)
 
 
+# Modelo de uso de aplicación
 
+### Admisiones
+![uso](Procesos_Uso_Imagenes/AdmisionesAplicacion.png)
+
+### Asignación de espacios académicos
+![uso](Procesos_Uso_Imagenes/AsignacionEA.png)
+
+### Biblioteca
+![uso](Procesos_Uso_Imagenes/BibliotecaAplicacion.png)
+
+### Consejerías
+![uso](Procesos_Uso_Imagenes/ConsejeriasAplicacion.png)
+
+### Inscripción a grado
+![uso](Procesos_Uso_Imagenes/InsGrado.png)
+
+### Movilidad académica
+![uso](Procesos_Uso_Imagenes/MovilidadAcademica.png)
+
+### Preinscripción
+![uso](Procesos_Uso_Imagenes/Preinscripcion.png)
+
+### Prueba académica
+![uso](Procesos_Uso_Imagenes/PruebaAcademicaaplicacion.png)
+
+### Reingreso
+![uso](Procesos_Uso_Imagenes/Reintegro.png)
+
+### Reporte de notas
+![uso](Procesos_Uso_Imagenes/ReporteNotasAplicacion.png)
