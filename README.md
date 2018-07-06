@@ -107,3 +107,15 @@ Nosotros consideramos que la arquitectura basada en microservicios aporta una im
 
 ### Reporte de notas
 ![uso](Procesos_Uso_Imagenes/ReporteNotasAplicacion.png)
+
+### Pagos
+![uso](Procesos_Uso_Imagenes/Proc_Pag_Usos.png)
+
+### Gestión de documentos
+![uso](Procesos_Uso_Imagenes/Pro_Ges_Doc_Uso.png)
+
+### Gestión de laboratorios
+![uso](Procesos_Uso_Imagenes/Proc_Ges_Lab_Uso.png)
+
+### Inscripción de espacios académicos (Adiciones y cancelaciones)
+![uso](Procesos_Uso_Imagenes/Proc_Ins_Esp_Acd_Adc_Can_Uso.png)
