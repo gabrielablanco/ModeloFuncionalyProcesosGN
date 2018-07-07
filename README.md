@@ -14,7 +14,7 @@ Nosotros consideramos que la arquitectura basada en microservicios aporta una im
 ![org](ModeloOrganizacional/ModeloOrganizacional.png)
 
 # Modelo de cooperación
-![coo](ModeloCooperacion/cooperacion.png)
+![coo](Cooperacion/cooperacion.png)
 
 # Modelo Funcional y Procesos Gestión de Notas
 
