@@ -33,10 +33,10 @@ Nosotros consideramos que la arquitectura basada en microservicios aporta una im
 ![funcional](FuncionalProcesos/FuncionalVicerrectoría.png)
 
 ### Docentes
-##### 1.
+##### 1. Gestión docente
 ![funcional](FuncionalProcesos/FuncionalDocentes.png)
 
-##### 2.
+##### 2. Docente
 ![funcional](FuncionalProcesos/FuncionalProfesores.png)
 
 ### Oficina de planeación
