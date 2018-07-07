@@ -1,3 +1,15 @@
+Nosotros consideramos que la arquitectura basada en microservicios aporta una implementación óptima al sistema de Gestión Académica, dado que cada microservicio tendrá una completa autonomía y el sistema posee una cantidad de clientes enorme, la implementación de los microservicios permitirá suplir la demanda y las necesidades de cada cliente que interactúe con él.
+
+Integrantes del grupo
+Alfonso Rodríguez Brian Giovanny
+Aponte Barrera Nicolás
+Blanco Peña Gabriela Fernanda
+Salgado González Luis Felipe
+
+
+# Modelo introductorio
+![int](Introductorio/ModeloIntroductorio.png)
+
 # Modelo organizacional 
 ![org](ModeloOrganizacional/ModeloOrganizacional.png)
 
@@ -5,7 +17,6 @@
 ![coo](ModeloCooperacion/cooperacion.png)
 
 # Modelo Funcional y Procesos Gestión de Notas
-Nosotros consideramos que la arquitectura basada en microservicios aporta una implementación óptima al sistema de Gestión Académica, dado que cada microservicio tendrá una completa autonomía y el sistema posee una cantidad de clientes enorme, la implementación de los microservicios permitirá suplir la demanda y las necesidades de cada cliente que interactúe con él.
 
 ## Modelos Funcionales
 
