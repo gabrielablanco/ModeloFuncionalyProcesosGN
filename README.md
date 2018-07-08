@@ -96,13 +96,13 @@ Nosotros consideramos que la arquitectura basada en microservicios aporta una im
 # Modelo de uso de aplicación
 
 ### Admisiones
-![uso](Procesos_Uso_Imagenes/AdmisionesAplicacion.png)
+![uso](Procesos_Uso_Imagenes/Admisiones.png)
 
 ### Asignación de espacios académicos
 ![uso](Procesos_Uso_Imagenes/AsignacionEA.png)
 
 ### Biblioteca
-![uso](Procesos_Uso_Imagenes/BibliotecaAplicacion.png)
+![uso](Procesos_Uso_Imagenes/Biblioteca.png)
 
 ### Consejerías
 ![uso](Procesos_Uso_Imagenes/ConsejeriasAplicacion.png)
@@ -117,7 +117,7 @@ Nosotros consideramos que la arquitectura basada en microservicios aporta una im
 ![uso](Procesos_Uso_Imagenes/Preinscripcion.png)
 
 ### Prueba académica
-![uso](Procesos_Uso_Imagenes/PruebaAcademicaaplicacion.png)
+![uso](Procesos_Uso_Imagenes/PruebaAcademica.png)
 
 ### Reingreso
 ![uso](Procesos_Uso_Imagenes/Reintegro.png)
