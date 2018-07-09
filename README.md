@@ -136,3 +136,6 @@ Nosotros consideramos que la arquitectura basada en microservicios aporta una im
 
 ### Inscripción de espacios académicos (Adiciones y cancelaciones)
 ![uso](Procesos_Uso_Imagenes/Proc_Ins_Esp_Acd_Adc_Can_Uso.png)
+
+# Modelo de cooperación de aplicación
+![coo](CooperacionAplicacion/CooperacionAplicacion.png)
