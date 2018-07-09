@@ -105,13 +105,13 @@ Nosotros consideramos que la arquitectura basada en microservicios aporta una im
 ![uso](Procesos_Uso_Imagenes/Biblioteca.png)
 
 ### Consejerías
-![uso](Procesos_Uso_Imagenes/ConsejeriasAplicacion.png)
+![uso](Procesos_Uso_Imagenes/ConsejeriasAplicacion.jpg)
 
 ### Inscripción a grado
 ![uso](Procesos_Uso_Imagenes/InsGrado.png)
 
 ### Movilidad académica
-![uso](Procesos_Uso_Imagenes/MovilidadAcademica.png)
+![uso](Procesos_Uso_Imagenes/MovilidadAcademica.jpg)
 
 ### Preinscripción
 ![uso](Procesos_Uso_Imagenes/Preinscripcion.png)
@@ -120,7 +120,7 @@ Nosotros consideramos que la arquitectura basada en microservicios aporta una im
 ![uso](Procesos_Uso_Imagenes/PruebaAcademica.png)
 
 ### Reingreso
-![uso](Procesos_Uso_Imagenes/Reintegro.png)
+![uso](Procesos_Uso_Imagenes/Reintegro.jpg)
 
 ### Reporte de notas
 ![uso](Procesos_Uso_Imagenes/ReporteNotasAplicacion.png)
