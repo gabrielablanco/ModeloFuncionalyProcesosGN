@@ -139,3 +139,6 @@ Nosotros consideramos que la arquitectura basada en microservicios aporta una im
 
 # Modelo de cooperación de aplicación
 ![coo](CooperacionAplicacion/CooperacionAplicacion.png)
+
+# Modelo de Infraestructura de uso
+![infra](InfraestructuraUso/InfraestructuraUso.png)
